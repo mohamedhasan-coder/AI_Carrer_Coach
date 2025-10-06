@@ -1,1 +1,1 @@
-# AI_Carrer_Coach
+# AI_Career_Coach
